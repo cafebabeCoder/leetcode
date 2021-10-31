@@ -5,11 +5,20 @@
  */
 
 // @lc code=start
-class Solution {
-public:
-    int removeDuplicates(vector<int>& nums) {
+#include<iostream>
+using namespace std;
+int main()
 
-    }
-};
+{
+cout<<"hello";
+return 0;
+}
+
+//class Solution {
+//public:
+//    int removeDuplicates(vector<int>& nums) {
+
+//    }
+//};
 // @lc code=end
 
